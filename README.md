@@ -9,5 +9,5 @@ I'm open to collaborate, and contribute on your projects.
 
 Explore my GitHub repos and feel free to fork and contribute.
 
-I would be happy if you follow my blog at https://nasermirzaei.net
+I would be happy if you follow my blog at https://nasermirzaei89.net
 Also, you can contact me at my gmail account with the same identifier as my GitHub account. You can find me with id `nasermirzaei89` everywhere 😉
