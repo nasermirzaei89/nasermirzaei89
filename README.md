@@ -14,7 +14,7 @@ Explore my GitHub repos and feel free to fork and contribute.
 
 ## Be in Touch
 
-You can find me with id `nasermirzaei89` everywhere including Gmail 😉
+You can find me by id `nasermirzaei89` everywhere including Gmail 😉
 
 ## Latest Blog Posts
 
