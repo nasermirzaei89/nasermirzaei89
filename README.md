@@ -19,7 +19,7 @@ Or schedule a meeting on [Calendly](https://calendly.com/nasermirzaei89/talk)
 
 ## Latest Blog Posts
 
+* [Multi-job](https://nasermirzaei89.net/2021/12/22/multi-job/) 22 Dec 2021
 * [Why Stack Overflow reputation is bullshit! and why it’s not!](https://nasermirzaei89.net/2021/04/02/why-stackoverflow-reputation-is-bullshit-and-why-its-not/) 2 April 2021
 * [Working Remotely](https://nasermirzaei89.net/2020/04/17/working-remotely/) 17 April 2020
-* [Deadlocks In Golang](https://nasermirzaei89.net/2020/03/07/deadlocks-in-golang/) 7 March 2020
 * [More...](https://nasermirzaei89.net/)
